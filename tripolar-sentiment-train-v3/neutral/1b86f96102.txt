@@ -1,0 +1,1 @@
+ alarm watch + pill name display for functioning Alzheimer patients w/b key; hear alarm & ask, 'What is that noise about?'
