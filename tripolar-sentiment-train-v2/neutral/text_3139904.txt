@@ -1,0 +1,7 @@
+$SPX $NDX stocks worth to look at are :
+#OneOutOfFive42Day
+$ARCT
+$BORR
+$CHK 
+$CRC 
+$GNUS

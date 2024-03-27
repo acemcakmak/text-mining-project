@@ -1,0 +1,5 @@
+$SQ lottos +1,100%
+$TWLO lottos +50%
+$TDOC lottos +125%
+$JPM lottos +90% 
+✅

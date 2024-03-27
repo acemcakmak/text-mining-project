@@ -1,0 +1,3 @@
+$SPY 30 min and 60 min intraday
+
+$SPX $QQQ $DIA $VIX https://t.co/NNisb5AaiU

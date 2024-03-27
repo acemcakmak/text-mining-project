@@ -1,0 +1,2 @@
+$SPY $SPX $QQQ $NDX  $IWM $RUT $TSLA $AMZN $AAPL $MSFT $GOOGL $DIA $DJIA $SPX_F $ES $NQ $YM
+@hyumiAlert: AKAM, NFLX, AAPL were added to Puts_Bearish_Stock(20%SL).

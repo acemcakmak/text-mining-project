@@ -1,0 +1,16 @@
+$MRK Inverted Hammer Pattern 
+Daily appearances since 2010-01-04: 71
+Performance (Close) 5 days later ±:
+Avg: 0.17
+Worst: -4.24
+Best: 5.79 
+
+10 days later:
+Avg: 0.02
+Worst: -4.10
+Best: 5.79 
+
+30 days later:
+Avg: 0.31
+Worst: -8.08
+Best: 6.98

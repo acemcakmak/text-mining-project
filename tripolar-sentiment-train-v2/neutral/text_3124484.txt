@@ -1,0 +1,1 @@
+Thank you @Apple for fixing the #Swift sourcekit crashes in #XCode :). Life is better now! http://t.co/NbRWTTcZ35

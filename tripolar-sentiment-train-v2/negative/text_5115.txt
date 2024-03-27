@@ -1,0 +1,1 @@
+humm no support for remote cvs history in opengrok 0.7 ...  guest i have to wait for 0.8!! 

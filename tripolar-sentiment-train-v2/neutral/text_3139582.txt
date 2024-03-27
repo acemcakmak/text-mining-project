@@ -1,0 +1,11 @@
+Date : 06/24/2020
+Time :  03:32 PM
+Ticker : $AGNC
+Exp :  07/17/20
+Strike :13
+Spot : 12.87
+Contracts : 1000 @ 0.37
+Premium : $37K
+Type : BLOCK
+ #trading #inversion  #Nasdaq
+#COVID19 #stocks #Fed $ROKU $AMZN $APPLE $SQ $SPY

@@ -1,0 +1,1 @@
+Really feeling broken SVN integration with IDEA.  Need new plugin that supports 1.6 now now now.

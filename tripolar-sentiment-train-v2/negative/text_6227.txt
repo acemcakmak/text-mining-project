@@ -1,0 +1,1 @@
+still trying to learn gmaps and flex and php and mysql. how will i be able to write to database? 

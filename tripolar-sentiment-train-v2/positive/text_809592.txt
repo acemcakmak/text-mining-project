@@ -1,0 +1,1 @@
+@lukeman Heh  It would be even enough to copy the tarball to his download directory and you could do pip install BeautifulSoup==3.0.7a :/

@@ -1,0 +1,1 @@
+Vodafone moving key operations to Google Cloud

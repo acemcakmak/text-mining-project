@@ -1,0 +1,1 @@
+@brianhprince No IIS in place or IIS6 only, explicit control over startup/shutdown without writing custom behaviors, others... will blog. 

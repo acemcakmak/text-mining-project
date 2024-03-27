@@ -1,0 +1,1 @@
+@AlexJReid try raphael JS - amazing svg/vml library for doing cool things with shapes and stuff  and works great with jQuery too

@@ -1,0 +1,1 @@
+Wondering why I can't seem to burn the Ubuntu image on a CD properly.  Now trying different burning software.  All hashes checked out 

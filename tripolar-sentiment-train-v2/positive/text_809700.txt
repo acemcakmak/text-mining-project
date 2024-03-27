@@ -1,0 +1,1 @@
+@BrentO Performance is horrid,but I can build/test/break clusters on it, and clone the VM's to real kit when it arrives.  Very handy 

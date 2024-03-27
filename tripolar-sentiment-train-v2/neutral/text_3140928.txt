@@ -1,0 +1,5 @@
+twtr $msft $amzn $qqq $fb $nflx $xspa $googl $mrna
+$penn $nvda $aapl $spy $spx #Futures $bynd $mark $xsp
+@cnbc continued
+
+Order flow through high speed traders.  Robinhood doesn't go through NYSE.  Order Flow goes through other market participants like CITIDEL (dont know)

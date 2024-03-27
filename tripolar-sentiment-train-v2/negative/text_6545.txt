@@ -1,0 +1,1 @@
+#spbpuk other common failures to upgrade: dec CU had a corrupted dlls in it and hanged. Just my experience. 

@@ -1,0 +1,14 @@
+0505 update:
+
+#daytrading 2 trades 1 win
+$AAPL 305c +110%
+$QCOM +0%
+
+#swingtrading 4 trades 1 win
+$TSLA 0508 830c 850c +350%
+$DAL 0508 25c #lotto -60%
+$IQ 0619 15p s h
+$NFLX 0508 460c s -60%
+$NEO 0515 + 0619 25p -50%
+
+#optiontrading #options #stocks #trading #earning #stockmarket

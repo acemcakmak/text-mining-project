@@ -1,0 +1,1 @@
+#untwitter the &quot;trash-bin&quot; solution doesn't work! the tweet is in the indexes and propagated, even if it disappears from my personal list 

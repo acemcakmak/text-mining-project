@@ -1,0 +1,3 @@
+@maybebullish Real500 just includes the top 500 US companies by market cap (sp500 excludes companies like $SNAP because they are pissy about the shareholder voting structure)
+
+Please tell me this already exists!

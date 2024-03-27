@@ -1,0 +1,4 @@
+$INTC multi leg floor
+10k Oct 60c @ 3.59 3.50 x 3.65
+10k Oct 65c @ 1.61 1.61 x 1.70
+10k Oct 52.5p @ 1.83 1.82 x 1.88

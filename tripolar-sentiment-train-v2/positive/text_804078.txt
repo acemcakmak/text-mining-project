@@ -1,0 +1,1 @@
+@haykuro How did you fix the headset/camera problem? Was it just libaudio.so and libcamera.so (and dependencies)? Just being curious 

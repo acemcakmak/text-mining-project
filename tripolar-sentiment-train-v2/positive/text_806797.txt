@@ -1,0 +1,1 @@
+@CiaranMcNulty There is a more 'verbose' explanation here  http://www.allthingsdistributed.com/2008/12/eventually_consistent.html

@@ -1,0 +1,1 @@
+Strugling with OSx86 10.5.6. Legendary error &quot;Still waiting for root device&quot; 

@@ -1,0 +1,1 @@
+Odstartoval code review a pri te prilzezitosti se zacetl do Bad smells in code z knihy Refactoring.Vycet smradu http://tinyurl.com/dj5v7u 

@@ -1,0 +1,1 @@
+wondering why ASP.MVC has done such a complex issue with simple CheckBox stuff 

@@ -1,0 +1,3 @@
+#futures 
+
+$SPY $SPX $UVXY $VIX $VXX $ES_F $NQ_F https://t.co/oKc3wUt5CC

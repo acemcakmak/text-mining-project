@@ -1,0 +1,1 @@
+@davidderaedt Does Lupo use itself for its own localization ? 

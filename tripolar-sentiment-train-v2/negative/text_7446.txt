@@ -1,0 +1,1 @@
+Bashpodder isn't working because wget is choking trying to download rss from feedburner.com.  It's apparently blocked in China. 

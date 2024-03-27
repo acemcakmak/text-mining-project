@@ -1,0 +1,1 @@
+@jonathanscary I would try deleting email from device, exiting app, re-entering email/password, trying again. I am determined 

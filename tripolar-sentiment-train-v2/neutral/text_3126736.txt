@@ -1,0 +1,1 @@
+Safari consumes less battery by pausing flash video every 5 seconds. Thanks @apple

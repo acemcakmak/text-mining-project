@@ -1,0 +1,1 @@
+Trying to knock together a CoreData app. I have loads of ideas, but not enough ability to write them straight off 

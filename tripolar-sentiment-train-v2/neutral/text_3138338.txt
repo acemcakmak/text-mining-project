@@ -1,0 +1,11 @@
+Date : 07/07/2020
+Time :  12:42 PM
+Ticker : $BAC
+Exp :  07/17/20
+Strike :23
+Spot : 23.05
+Contracts : 1000 @ 0.80
+Premium : $80K
+Type : SWEEP
+  #trading #inversion  #Nasdaq
+#COVID19 #stocks #Fed $ROKU $AMZN $APPLE $SQ $SPY

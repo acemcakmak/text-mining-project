@@ -1,0 +1,8 @@
+RT @unusualOA: Date : 06/19/2020
+Time :  09:31 AM
+Ticker : $NUAN
+Exp :  07/17/20
+Strike :25
+Spot : 24.10
+Contracts : 283 @ 0.63
+Premium : $…

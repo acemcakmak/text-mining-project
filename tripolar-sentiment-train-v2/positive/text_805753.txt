@@ -1,0 +1,1 @@
+@sbtourist Hehe, I was going to say yesterday that twitter should have used erlang instead of scala. I will say it now instead. 

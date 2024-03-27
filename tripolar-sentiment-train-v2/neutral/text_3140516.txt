@@ -1,0 +1,4 @@
+$INTC
+Twitter Sentiment on 8 Jul 2020 was:
+▒ Positive 32.8% █ Negative 15.3% ░ Neutral 51.9%
+▒▒▒▒▒▒▒███░░░░░░░░░░

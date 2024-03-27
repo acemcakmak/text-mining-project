@@ -1,0 +1,1 @@
+Figured out how to add a twitter 'ad' to header of my wordpress blog, go to settings, then tagline, may be useful for all you tweeters 

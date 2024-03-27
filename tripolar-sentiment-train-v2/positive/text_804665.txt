@@ -1,0 +1,1 @@
+When will !pidgin integrate otr-encryption as a standard component like !adium does? I will really appreciate that! 

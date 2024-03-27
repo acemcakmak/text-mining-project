@@ -1,0 +1,2 @@
+$SPY $SPX $QQQ $NDX  $IWM $RUT $TSLA $AMZN $AAPL $MSFT $GOOGL $DIA $DJIA $SPX_F $ES $NQ $YM
+@hyumialert: STE was added to Calls_Bullish_Stock_of_the_day (SL 20%).

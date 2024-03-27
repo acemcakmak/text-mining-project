@@ -1,0 +1,1 @@
+Why can't Excel 2003 handle more than 7 nested IF statements? 

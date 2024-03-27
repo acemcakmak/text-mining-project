@@ -1,0 +1,4 @@
+$FB
+Twitter Sentiment on 1 Jun 2020 was:
+▒ Positive 38.3% █ Negative 16.5% ░ Neutral 45.2%
+▒▒▒▒▒▒▒▒███░░░░░░░░░

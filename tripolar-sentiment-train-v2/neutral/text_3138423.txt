@@ -1,0 +1,4 @@
+$AAPL
+Twitter Sentiment on 13 Jul 2020 was:
+▒ Positive 39.1% █ Negative 10.3% ░ Neutral 50.6%
+▒▒▒▒▒▒▒▒██░░░░░░░░░░

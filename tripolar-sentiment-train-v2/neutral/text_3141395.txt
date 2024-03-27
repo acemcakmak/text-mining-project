@@ -1,0 +1,10 @@
+Date : 06/29/2020
+Time :  12:18 PM
+Ticker : $TSLA
+Exp :  07/02/20
+Strike :1000
+Spot : 991.70
+Contracts : 127 @ 20.00
+Premium : $254K
+Type : SWEEP
+ #Stocks #Watchlist #Market #Nasdaq $SPY $QQQ $DIA

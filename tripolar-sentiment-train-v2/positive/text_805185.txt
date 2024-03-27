@@ -1,0 +1,1 @@
+@serialseb I've got build 7068 x64 and it's running great. That MSDN subscriptions will come in handy 

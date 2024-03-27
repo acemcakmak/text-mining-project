@@ -1,0 +1,1 @@
+Building an app for Mac is not fun, specially when you don't have one.. 

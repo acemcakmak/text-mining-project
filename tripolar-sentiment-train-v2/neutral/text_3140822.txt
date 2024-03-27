@@ -1,0 +1,1 @@
+$SPY $SPX Looks like the $CME FedWatch Tool still hasn't been updated to take into account the possibility of negative Fed funds rate it seems? Hello @CMEGroup, wake up!

@@ -1,0 +1,1 @@
+Trying to get rid of brightness and alphas in Flash. File keeps exporting with the brightness and alpha in tact. 

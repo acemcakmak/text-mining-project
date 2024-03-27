@@ -1,0 +1,1 @@
+My external HDD sometimes fails to get recognized by Windows. I think problem might be conflict with USB hub. It's not fun to use anymore 

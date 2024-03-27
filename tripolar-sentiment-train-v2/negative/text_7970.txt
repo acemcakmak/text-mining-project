@@ -1,0 +1,1 @@
+@Zee For example, it simply won't send direct messages. Well, it will pretend it did, but it actually doesn't. Kind of a deal breaker 

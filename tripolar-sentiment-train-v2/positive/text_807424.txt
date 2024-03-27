@@ -1,0 +1,1 @@
+implementing imprint, TOS and all those necessary things you need for a nice web app 

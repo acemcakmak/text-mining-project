@@ -1,0 +1,1 @@
+@Joffff Thanks man. That's what I thought, but PS seems to lose them when the file is reopened. 

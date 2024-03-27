@@ -1,0 +1,1 @@
+RT @pyalot: @Apple @appleios rolled out #WebGL to #iOS8 3 months ago and just overtook @google @Android in WebGL support levels.

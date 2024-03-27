@@ -1,0 +1,2 @@
+#Creditrisk FAQ “Is it OK to discount bond coupons &amp; principal at the same rate?” No! Here is the discount rate for the coupon curve for JPMorgan $JPM via https://t.co/Dv93KhHLiC.
+Here’s the proof from Robert Jarrow #CVA  #credit https://t.co/FJGrZGIAOB https://t.co/9Gw4iPtej2

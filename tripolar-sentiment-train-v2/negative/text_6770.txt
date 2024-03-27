@@ -1,0 +1,1 @@
+why is my raster symbology being so unpredictable...? Keeps randomly deciding to not display some colours... Grmph 

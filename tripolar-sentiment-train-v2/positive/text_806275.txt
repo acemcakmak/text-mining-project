@@ -1,0 +1,1 @@
+ALL slowness on my laptop (including problems in Media Center) seemed to evaporate after disabling search indexing on the hard drives \o/ 

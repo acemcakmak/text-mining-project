@@ -1,0 +1,1 @@
+$SPY $IWM $NVDA $NFLX

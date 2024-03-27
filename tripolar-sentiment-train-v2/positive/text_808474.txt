@@ -1,0 +1,1 @@
+I wish SPOJ could treat &quot;IIIT-Hyderabad&quot; , &quot;IIIT, Hyderabad&quot; and &quot;IIIT Hyderabad&quot; as 1 name, then the score would've been better 

@@ -1,0 +1,6 @@
+Major world indices:
+$SPX: 2775.78
+$FTSE: 5789.81
+$DAX: 10390.37
+$Nikkei: 19212.43
+More at https://t.co/Jbuj8gzfWH

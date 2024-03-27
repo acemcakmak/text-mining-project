@@ -1,0 +1,11 @@
+$ES1! RSI Divergence Signal
+
+Exchange: PRIMEXBT
+Symbol: ES1!
+Timeframe: 1H
+Signal: Bullish Divergence
+
+Date: 07/14/2020, 9:10 AM
+
+Trade SP500 Using Crypto Here:
+https://t.co/gnPhDvSijn https://t.co/UyqOoQrcXf

@@ -1,0 +1,12 @@
+TODAYS MOST ACTIVE STOCKS
+Ticker    %Ch    Vol
+$BAC -10.04%  146.1M
+$NIO  -6.19%   125.5M
+$AAL  -15.51%  121.6M
+$GE  -8.67%   123.5M
+$NCLH -16.46%  116.4M
+$F    -9.99%   115.2M
+$UAL -16.11%  101.8M
+$BA   -16.42%  101.9M
+$DAL -14.03%  86.5M
+$CCL  -15.3%   77.7M

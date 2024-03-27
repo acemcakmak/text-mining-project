@@ -1,0 +1,1 @@
+hmm, my local copy of a site is having intermittent DB connection issues with a live DB server, yet the beta of the same site isn't. 

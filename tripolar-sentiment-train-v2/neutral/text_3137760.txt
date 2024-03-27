@@ -1,0 +1,8 @@
+RT @unusualOA: Date : 07/09/2020
+Time :  10:33 AM
+Ticker : $ATH
+Exp :  08/21/20
+Strike :35
+Spot : 29.97
+Contracts : 1000 @ 1.84
+Premium : $…

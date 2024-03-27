@@ -1,0 +1,8 @@
+no change to holdings but did trimmed $CHFS when it spiked to 0.48 late last week.
+5/6 Holdings
+$CPRX
+$SRPT
+$APTO
+$CHFS
+$HD
+$AMAT

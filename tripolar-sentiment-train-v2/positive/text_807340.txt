@@ -1,0 +1,1 @@
+@fredrikth latest n95 rom is about 120 meg, and the downloader will abort after 3 tries. no prob for u i guess 
